@@ -12,6 +12,8 @@
 		0445F3072142817C00863CB6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0445F3052142817C00863CB6 /* Main.storyboard */; };
 		0445F3092142818C00863CB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0445F3082142818C00863CB6 /* Assets.xcassets */; };
 		0445F30C2142818C00863CB6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0445F30A2142818C00863CB6 /* LaunchScreen.storyboard */; };
+		0445F318214281B600863CB6 /* 《信息系项目管理师教程》第三版-清华出版社（主编：谭志彬 柳纯录）-官方指定用书-2017年10月-107MB.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0445F315214281B600863CB6 /* 《信息系项目管理师教程》第三版-清华出版社（主编：谭志彬 柳纯录）-官方指定用书-2017年10月-107MB.pdf */; };
+		0445F319214281B600863CB6 /* 信息系统项目管理-章一.mindnode in Resources */ = {isa = PBXBuildFile; fileRef = 0445F316214281B600863CB6 /* 信息系统项目管理-章一.mindnode */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		0445F3082142818C00863CB6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0445F30B2142818C00863CB6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0445F30D2142818C00863CB6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0445F315214281B600863CB6 /* 《信息系项目管理师教程》第三版-清华出版社（主编：谭志彬 柳纯录）-官方指定用书-2017年10月-107MB.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "《信息系项目管理师教程》第三版-清华出版社（主编：谭志彬 柳纯录）-官方指定用书-2017年10月-107MB.pdf"; sourceTree = "<group>"; };
+		0445F316214281B600863CB6 /* 信息系统项目管理-章一.mindnode */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "信息系统项目管理-章一.mindnode"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,7 @@
 		0445F3002142817C00863CB6 /* XZInformationSystemProjectManagement */ = {
 			isa = PBXGroup;
 			children = (
+				0445F313214281B600863CB6 /* 信息系统项目管理 */,
 				0445F3012142817C00863CB6 /* AppDelegate.swift */,
 				0445F3032142817C00863CB6 /* ViewController.swift */,
 				0445F3052142817C00863CB6 /* Main.storyboard */,
@@ -62,6 +67,15 @@
 				0445F30D2142818C00863CB6 /* Info.plist */,
 			);
 			path = XZInformationSystemProjectManagement;
+			sourceTree = "<group>";
+		};
+		0445F313214281B600863CB6 /* 信息系统项目管理 */ = {
+			isa = PBXGroup;
+			children = (
+				0445F315214281B600863CB6 /* 《信息系项目管理师教程》第三版-清华出版社（主编：谭志彬 柳纯录）-官方指定用书-2017年10月-107MB.pdf */,
+				0445F316214281B600863CB6 /* 信息系统项目管理-章一.mindnode */,
+			);
+			path = "信息系统项目管理";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,7 +138,9 @@
 			files = (
 				0445F30C2142818C00863CB6 /* LaunchScreen.storyboard in Resources */,
 				0445F3092142818C00863CB6 /* Assets.xcassets in Resources */,
+				0445F318214281B600863CB6 /* 《信息系项目管理师教程》第三版-清华出版社（主编：谭志彬 柳纯录）-官方指定用书-2017年10月-107MB.pdf in Resources */,
 				0445F3072142817C00863CB6 /* Main.storyboard in Resources */,
+				0445F319214281B600863CB6 /* 信息系统项目管理-章一.mindnode in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
